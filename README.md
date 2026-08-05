@@ -2,9 +2,7 @@
   <img src="assets/banner-github.png" alt="AllLogic">
 </p>
 
-# AllLogic
-
-**Engenharia de Soluções Digitais**
+# Bem-vindo à AllLogic
 
 > Tecnologia que trabalha para as pessoas.
 
@@ -79,7 +77,7 @@ A AllLogic foi fundada por **Lucas Dresler**, que conduz a evolução da empresa
 ## Contato
 
 - GitHub: https://github.com/lucasdresler
-- LinkedIn
+- LinkedIn: https://linkedin.com/in/lucasdresler
 - Site institucional (em desenvolvimento)
 
 ---
