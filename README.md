@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="assets/banner-github.png" alt="AllLogic">
+  <img src="assets/banner-github.png" alt="AllLogic Online">
 </p>
 
-# Bem-vindo à AllLogic
+# Bem-vindo à AllLogic Online
 
 > Tecnologia que trabalha para as pessoas.
 
 ---
 
-## Quem é a AllLogic
+## Quem é a AllLogic Online
 
-A AllLogic é uma empresa de engenharia de soluções digitais. Seu propósito é desenvolver soluções que unam arquitetura, engenharia e documentação para atender necessidades reais com clareza, responsabilidade e qualidade.
+A AllLogic Online é uma empresa de engenharia de soluções digitais. Seu propósito é desenvolver soluções que unam arquitetura, engenharia e documentação para atender necessidades reais com clareza, responsabilidade e qualidade.
 
-A AllLogic desenvolve seus projetos com foco em arquitetura, documentação, qualidade técnica e evolução contínua. Cada iniciativa busca produzir soluções compreensíveis, rastreáveis e sustentáveis ao longo do tempo.
+A AllLogic Online desenvolve seus projetos com foco em arquitetura, documentação, qualidade técnica e evolução contínua. Cada iniciativa busca produzir soluções compreensíveis, rastreáveis e sustentáveis ao longo do tempo.
 
 ---
 
 ## Como trabalhamos
 
-A AllLogic adota princípios que orientam a construção e a evolução de suas soluções:
+A AllLogic Online adota princípios que orientam a construção e a evolução de suas soluções:
 
 - Arquitetura antes da implementação.
 - Documentação integrada ao desenvolvimento.
@@ -33,13 +33,13 @@ A AllLogic adota princípios que orientam a construção e a evolução de suas 
 
 ### Projeto Atlas
 
-Site institucional da AllLogic, desenvolvido para apresentar a empresa, seus serviços, sua visão de engenharia e sua forma de desenvolver soluções digitais.
+Site institucional da AllLogic Online, desenvolvido para apresentar a empresa, seus serviços, sua visão de engenharia e sua forma de desenvolver soluções digitais.
 
-### Manual Operacional da AllLogic (MOA)
+### Manual Operacional da AllLogic Online (MOA)
 
 Conjunto de padrões e procedimentos que orientam o desenvolvimento, a homologação tecnológica e a evolução das iniciativas da empresa.
 
-### Infraestrutura AllLogic
+### Infraestrutura AllLogic Online
 
 Base de ambientes, publicação e serviços que sustenta os projetos digitais da AllLogic com segurança, organização e continuidade operacional.
 
@@ -70,7 +70,7 @@ Base de ambientes, publicação e serviços que sustenta os projetos digitais da
 
 ## Sobre o Fundador
 
-A AllLogic foi fundada por **Lucas Dresler**, que conduz a evolução da empresa com foco em arquitetura, infraestrutura, automação e documentação técnica.
+A AllLogic Online foi fundada por **Lucas Dresler**, que conduz a evolução da empresa com foco em arquitetura, infraestrutura, automação e documentação técnica.
 
 ---
 
@@ -78,12 +78,12 @@ A AllLogic foi fundada por **Lucas Dresler**, que conduz a evolução da empresa
 
 - GitHub: https://github.com/lucasdresler
 - LinkedIn: https://linkedin.com/in/lucasdresler
-- Site institucional (em desenvolvimento)
+- Site institucional: https://alllogiconline.com.br
 
 ---
 
 <p align="center">
-<strong>AllLogic</strong><br>
+<strong>AllLogic Online</strong><br>
 Engenharia de Soluções Digitais
 <br><br>
 Tecnologia que trabalha para as pessoas.
