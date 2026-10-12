@@ -41,7 +41,7 @@ Conjunto de padrões e procedimentos que orientam o desenvolvimento, a homologa�
 
 ### Infraestrutura AllLogic Online
 
-Base de ambientes, publicação e serviços que sustenta os projetos digitais da AllLogic com segurança, organização e continuidade operacional.
+Base de ambientes, publicação e serviços que sustenta os projetos digitais da AllLogic Online com segurança, organização e continuidade operacional.
 
 ---
 
