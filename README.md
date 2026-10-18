@@ -29,11 +29,19 @@ A AllLogic Online adota princípios que orientam a construção e a evolução d
 
 ---
 
+## Soluções Comerciais — Família Agillex
+
+- **[Agillex Hub](https://alllogiconline.com.br/agillex-hub/):** Plataforma Unificada de Gestão Operacional, Atendimento WhatsApp Oficial com IA, Agendamento Online Sincronizado, Funil CRM Kanban e Cobrança Integrada com Taxa Fixa de R$ 1,99.
+- **[Agillex Agenda](https://alllogiconline.com.br/agillex-agenda/):** Sistema de Agendamento Online Sincronizado com Google Calendar, página pública exclusiva 24/7 e lembretes automáticos via WhatsApp (redução comprovada de até 85% em faltas).
+- **[Agillex Atendimento](https://alllogiconline.com.br/agillex-atendimento/):** Agente de Inteligência Artificial humanizada 24/7 no WhatsApp Oficial com base de conhecimento (RAG) e transbordo humano em 1 clique.
+
+---
+
 ## Projetos Estratégicos
 
 ### Projeto Atlas
 
-Site institucional da AllLogic Online, desenvolvido para apresentar a empresa, seus serviços, sua visão de engenharia e sua forma de desenvolver soluções digitais.
+Site institucional da AllLogic Online (https://alllogiconline.com.br), desenvolvido para apresentar a empresa, seus serviços, sua visão de engenharia e sua forma de desenvolver soluções digitais.
 
 ### Manual Operacional da AllLogic Online (MOA)
 
@@ -49,6 +57,8 @@ Base de ambientes, publicação e serviços que sustenta os projetos digitais da
 
 - Engenharia de Soluções Digitais
 - Arquitetura de Soluções
+- Plataformas SaaS e Produtos Digitais
+- Inteligência Artificial Aplicada & Atendimento Humanizado
 - Desenvolvimento Web
 - Infraestrutura e Publicação de Aplicações
 - Automação de Processos
@@ -59,8 +69,10 @@ Base de ambientes, publicação e serviços que sustenta os projetos digitais da
 ## Tecnologias
 
 - Astro
+- Next.js & React
 - TypeScript
-- CSS
+- CSS & TailwindCSS
+- PostgreSQL & Redis
 - Docker
 - Traefik
 - Cloudflare
